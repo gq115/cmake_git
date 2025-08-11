@@ -1,0 +1,7 @@
+# CMake 方式
+mkdir build && cd build
+cmake ..
+make
+
+# Makefile 方式
+make
